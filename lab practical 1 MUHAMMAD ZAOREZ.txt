@@ -1,0 +1,70 @@
+
+
+                           MUHAMMAD ZAOREZ(455443)
+                                         TASK 1
+#include<iostream>
+using namespace std;
+int main()
+{
+/*	int i=0;
+	cout<<"enter age";
+	cin>>i;
+	if(i<18){
+		cout<<"ineligible for vote:"<<endl;
+	}
+	else{
+		cout<<"eligible for vote";
+	}
+	return 0;*/
+                                                  
+                                                       TASK 2
+	
+/*	 int i=0;
+  cout<<"enter number";
+  cin>>i;
+  if(i>10&&i<50){
+  	cout<<"lies in the range"<<endl;
+  }
+  else {
+	cout<<"doesnot fall in range"<<endl;
+	return 0;
+}*/
+
+                                                TASK 3
+
+/*int a=0 , b=0;
+cout<<"enter a="<<endl;
+cin>>a,
+cout<<"enter b="<<endl;
+cin>>b;
+if(a>b){
+	cout<<"a is maximum"<<endl;
+}
+else{
+	cout<<"b is maximum"<<endl;
+}
+return 0;*/
+ 
+                                                   TASK 4
+
+int marks1=0 , marks2=0 , marks3=0;
+cout<<"enter first score:";
+cin>>marks1;
+cout<<"enter second score";
+cin>>marks2;
+cout<<"enter third score";
+cin>>marks3;
+float res;
+res= (marks1+marks2+marks3)/3;
+if(res>=60){
+	cout<<"pass"<<endl;
+}
+else{
+	cout<<"fail";
+}
+return 0;
+
+
+}
+  
+ 
